@@ -1,4 +1,4 @@
-# Poartscan to attack a target by yourself
+# Poart scan to attack a target by yourself
 # Pentesting with Python
 # With the help of Python
 #python3.11.1
